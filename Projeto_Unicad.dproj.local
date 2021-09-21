@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/09 10:58:57.000.572,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 12:59:39.000.218,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 15:38:54.656,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 15:39:50.894,D:\RASIK\Teste Unicard\Lista_Entregas.dfm=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/14 15:39:50.894,D:\RASIK\Teste Unicard\Lista_Entregas.pas=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 15:40:11.274,D:\RASIK\Teste Unicard\Projeto_Unicad.dproj=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/14 15:41:18.640,=D:\RASIK\Teste Unicard\Cadastro.pas</Transaction>
+    <Transaction>2021/09/14 15:41:23.588,=D:\RASIK\Teste Unicard\DataModule.pas</Transaction>
+    <Transaction>2021/09/14 15:41:24.170,=D:\RASIK\Teste Unicard\Menu.pas</Transaction>
+    <Transaction>2021/09/14 15:57:05.910,=D:\RASIK\Teste Unicard\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 15:58:03.157,D:\RASIK\Teste Unicard\Entregas.dfm=D:\RASIK\Teste Unicard\Unit1.dfm</Transaction>
+    <Transaction>2021/09/14 15:58:03.157,D:\RASIK\Teste Unicard\Entregas.pas=D:\RASIK\Teste Unicard\Unit1.pas</Transaction>
+    <Transaction>2021/09/14 16:07:57.449,D:\RASIK\Teste Unicard\Mapas.pas=D:\RASIK\Teste Unicard\Lista_Entregas.pas</Transaction>
+    <Transaction>2021/09/14 16:07:57.449,D:\RASIK\Teste Unicard\Mapas.dfm=D:\RASIK\Teste Unicard\Lista_Entregas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
